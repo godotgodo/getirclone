@@ -10,7 +10,6 @@ import GetirCarsi from './components/routes/GetirCarsi';
 function App() {
   return (
     <div className='bg-getirgray w-full min-h-screen h-full'>
-      {/* <Navbar/> */}
       <BrowserRouter>
         <Navbar />
         <Routes>

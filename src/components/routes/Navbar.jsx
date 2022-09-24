@@ -5,8 +5,6 @@ import PersonAddAlt1Icon from '@mui/icons-material/PersonAddAlt1';
 import { NavLink } from 'react-router-dom';
 
 function Navbar() {
-    console.log(window.location.href.includes('yemek'));
-    console.log(window.location);
     return (
         <div className='h-[45px] bg-getirpurple'>
             <div className='xl:w-10/12 w-full mx-auto h-[45px] flex justify-between'>

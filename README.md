@@ -1,3 +1,12 @@
+#### Packages I used in this project:
+- React Router v6
+- Material UI İcons
+- Fontawesome
+- React Slick
+- Tailwind CSS
+
+Other than that, I used getir.com for photos and data.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
